@@ -1,12 +1,23 @@
-# React + Vite
+# Tempo 🌤️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+é uma aplicação moderna para acompanhamento climático que combina dados precisos com uma experiência visual intuitiva. Desenvolvido para quem precisa de informações meteorológicas confiáveis de forma rápida e acessível.
 
-Currently, two official plugins are available:
+## ✨ Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> Previsão atual: Temperatura, condições climáticas, umidade e velocidade do vento.
+>Previsão para 5 dias: Temperaturas mínimas/máximas e condições predominantes por dia.
+>Tema dinâmico: Cores e estilos que mudam conforme as condições do tempo.
+>Modo claro/escuro: Alternância suave entre temas.
+>Responsivo: Adapta-se a dispositivos móveis e desktop.
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologias
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+>Frontend:
+React
+Vite
+Chakra UI (design system)
+Framer Motion (animações)
+Axios (requisições HTTP)
+
+API:
+OpenWeatherMap (Dados Meteorológicos)
