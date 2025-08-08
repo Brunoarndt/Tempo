@@ -4,15 +4,15 @@
 
 ## ✨ Funcionalidades
 
-> Previsão atual: Temperatura, condições climáticas, umidade e velocidade do vento.
->Previsão para 5 dias: Temperaturas mínimas/máximas e condições predominantes por dia.
->Tema dinâmico: Cores e estilos que mudam conforme as condições do tempo.
->Modo claro/escuro: Alternância suave entre temas.
->Responsivo: Adapta-se a dispositivos móveis e desktop.
+Previsão atual: Temperatura, condições climáticas, umidade e velocidade do vento.
+Previsão para 5 dias: Temperaturas mínimas/máximas e condições predominantes por dia.
+Tema dinâmico: Cores e estilos que mudam conforme as condições do tempo.
+Modo claro/escuro: Alternância suave entre temas.
+Responsivo: Adapta-se a dispositivos móveis e desktop.
 
 ## 🛠️ Tecnologias
 
->Frontend:
+Frontend:
 React
 Vite
 Chakra UI (design system)
